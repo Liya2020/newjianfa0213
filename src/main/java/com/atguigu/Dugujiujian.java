@@ -8,6 +8,7 @@ public class Dugujiujian {
     public static void main(String[] args) {
         System.out.println("AAAAAAA");
         System.out.println("BBBBBBB");
+        System.out.println("CCCCCCC");
     }
 }
 
